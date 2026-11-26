@@ -53,7 +53,7 @@ h2 {
     
     height: 70px;
     margin-top: 0%;
-    border-radius:20px ;
+    border-radius:20px 20px 0 0 ;
     color: darkblue;
 }
 #i{
@@ -61,7 +61,7 @@ h2 {
     
     height: 70px;
     margin-top: 0%;
-    border-radius:20px ;
+    border-radius:20px 20px 0 0 ;
     color: rgb(29, 113, 29);
 }
 #p{
